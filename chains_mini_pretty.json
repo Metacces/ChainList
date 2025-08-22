@@ -9706,7 +9706,7 @@
     "symbol": "ACCES",
     "decimals": 18
   },
-  "rpc": ["https://oli.accesscan.io"],
+  "rpc": ["https://oli.metacces.com"],
   "faucets": [],
   "infoURL": "https://metacces.com"
 }, {
